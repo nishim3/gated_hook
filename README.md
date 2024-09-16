@@ -1,3 +1,8 @@
+
+##Gated Hooks
+
+Create NFT Gated Hooks, that only permit holders of a particular NFT collection to use your pools. You can use this hook to create pools to exchange tokens at custom prices, restrict the users of the pools, and create private groups for using the pool for yourself or within your organisation.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
